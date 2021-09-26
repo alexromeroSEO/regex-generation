@@ -1,5 +1,5 @@
 
-function Regexfy() {
+function Regexfy() { 
   var ss = SpreadsheetApp.getActiveSpreadsheet();
   var sheet = ss.getSheets()[0];
   var ufila = sheet.getLastRow();
